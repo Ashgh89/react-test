@@ -4,7 +4,7 @@ function App() {
   };
   return (
     <div className="App">
-      <button onClick={handleClick}>Just Reactt</button>
+      <button onClick={handleClick}>Just Reacttt</button>
     </div>
   );
 }
